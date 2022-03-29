@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kingman1qr
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning Cyber Security
-- 📫 How to reach me Discord KINGMAN ✈#8472
+Discord : https://discord.gg/nW7T8KF6RB
+
+
+
 
 <!---
 kingman1qr/kingman1qr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
